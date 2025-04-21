@@ -5,7 +5,7 @@ A user-based collaborative filtering movie recommender built with **Streamlit** 
 ---
 
 ## 📸 Preview
-#App screenshot
+App screenshot:
 
 <img width="1680" alt="Screenshot 2025-04-21 at 16 51 33" src="https://github.com/user-attachments/assets/06640c66-5e04-4720-8378-47dbe28ef12c" />
 
